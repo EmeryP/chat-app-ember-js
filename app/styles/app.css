@@ -49,9 +49,11 @@ max-width:100%;
   display: flex;
 }
 img {
-  display: block;
-  width: 100%;
+  margin-left: 45%;
+  width: 10%;
 }
+
+
 .avatar {
   position: relative;
 }
@@ -102,4 +104,12 @@ img {
 .intro p {
   margin-bottom: 20px;
   font-size: 16px;
+}
+
+#main-body{
+  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+
+#title{
+  font-family: 'Courier New', Courier, monospace
 }
