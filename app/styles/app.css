@@ -88,15 +88,15 @@ img {
   left:0px;
   bottom:0;
 }
-.red-gradient-background {
+/* .red-gradient-background {
   background: #300D4F;
   background-image: -webkit-linear-gradient(top, #300D4F, #d14e37);
   background-image: linear-gradient(to bottom, #300D4F, #d14e37);
-}
-.red-gradient-background h2 {
+} */
+/* .red-gradient-background h2 {
   color: #ffffff;
   text-transform: capitalize;
-}
+} */
 .intro {
   margin-top: 50px;
   font-size: 16px;
@@ -107,9 +107,10 @@ img {
 }
 
 #main-body{
-  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+  height: 100vh;
+  background-image: linear-gradient(to top, rgba(255,0,0,0), rgba(224,78,57));
 }
 
 #title{
-  font-family: 'Courier New', Courier, monospace
+  font-family: Bradley Hand, cursive;
 }
