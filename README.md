@@ -26,6 +26,5 @@ You will need the following things properly installed on your computer.
 * [Pusher Tutorial](https://pusher.com/tutorials/chat-emberjs)
 * [Pusher website](https://pusher.com/)
 * [GitHub Repo](https://github.com/EmeryP/chat-app-ember-js)
-* [AWS Deployment](http://ember-chat-app.s3-website-us-east-1.amazonaws.com/)
 
 
